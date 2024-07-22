@@ -1,5 +1,8 @@
-node_modules
+# Node modules
+node_modules/
 
-package-lock.json
-
+# Environment variables
 .env
+
+# Build output
+frontend/build/
